@@ -1,0 +1,21 @@
+.mat-form-field-appearance-fill .mat-form-field-flex {
+    background-color: #fff !important;
+    border: 1px solid #ccc;
+}
+
+.mat-form-field-appearance-fill .mat-form-field-flex {
+    padding: 4px .75em !important;
+    height: 50px;
+    ;
+}
+
+.mat-form-field-appearance-fill.mat-form-field-can-float.mat-form-field-should-float .mat-form-field-label,
+.mat-form-field-appearance-fill.mat-form-field-can-float .mat-input-server:focus+.mat-form-field-label-wrapper .mat-form-field-label {
+    color: #6880d4;
+    font-weight: 500;
+}
+
+.mat-form-field-label{
+    font-weight: 500;
+    color: #6880d4;
+}
